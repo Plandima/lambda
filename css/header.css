@@ -105,9 +105,9 @@
   font-size: 2rem;
 }
 
-/* SECTION-ONE */
+/* SECTION-PROMO */
 
-.section-one {
+.section-promo {
   background: url(../img/bg-promo.png);
   display: flex;
   text-align: center;
@@ -120,7 +120,7 @@
   padding-bottom: 6rem;
 }
 
-.section-text {
+.slogan {
   font-family: "Yeseva One", sans-serif;
   text-transform: lowercase;
   font-size: 9rem;
