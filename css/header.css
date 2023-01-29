@@ -1,0 +1,13 @@
+
+/* HEADER */
+
+.main-header {
+  width: 100%;
+  height: 12rem;
+  position: absolute;
+  display: flex;
+  padding-left: 18rem;
+  padding-right: 18rem;
+  gap: 2.6rem;
+  justify-content: space-between;
+}
